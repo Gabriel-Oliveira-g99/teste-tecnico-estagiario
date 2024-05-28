@@ -5,6 +5,7 @@ Você então deve levar em consideração às regras de negócio propostas abaix
 O desafio já se inicia ao clonar o repositório para o seu ambiente de desenvolvimento e serão avaliados conceitos como: uso do GIT, nomenclatura de variáveis, organização do código e algoritmo utilizado.
 
 Ao finalizar o desafio, por favor faça um `.zip` da pasta do projeto no seu ambiente e encaminhe ao email `contato@devee.com.br`.
+Você terá até o dia 03/06/2024 para enviar a sua solução.
 
 ### [Figma da página de carrinho](https://www.figma.com/design/HEhq70vAmliaFCcBoFaopa/Untitled?m=dev&node-id=1-2&t=K7TOZr7LNNokIXlR-1)
 

@@ -1,11 +1,13 @@
-Regras de negócio:
+[Figma](https://www.figma.com/design/HEhq70vAmliaFCcBoFaopa/Untitled?m=dev&node-id=1-2&t=K7TOZr7LNNokIXlR-1)
+
+## Regras de negócio:
 
 - O subtotal de um item é calculado pelo seu preço multiplicado pela quantidade
 - O valor do subtotal do pedido é definido pelo subtotal de todos os itens
 - O valor do frete do pedido é referente ao maior valor entre todos os produtos
 - O valor do total do pedido é definido pelo calculo do seu subtotal + frete
 
-Objetivos:
+## Objetivos:
 
 - Realizar o desenvolvimento do CSS apropriado para os items do pedido de compras conforme o layout do figma
 - Calcular de forma adequada o frete que será utilizado para TODOS os produtos do pedido

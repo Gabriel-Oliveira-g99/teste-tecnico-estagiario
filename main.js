@@ -11,13 +11,13 @@ const productsInCart = [
     name: "Product 2",
     price: 200.0,
     quantity: 2,
-    freigt: 20.0,
+    freight: 20.0,
   },
   {
     id: 3,
     name: "Product 3",
     price: 300.0,
     quantity: 1,
-    freigt: 30.0,
+    freight: 30.0,
   },
 ];

@@ -66,6 +66,34 @@ section#items {
     box-shadow: 0 0 4px rgba(0,0,0,0.1);
 }
 
+.img-tamanho-personalizado {
+    width: 100px;
+    height: 100px; 
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.product-description {
+    flex-grow: 1;
+}
+
+.item-description {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    margin: 10px 0; 
+    padding-top: 5px;
+}
+
+.product-title {
+    padding-bottom: 10px;
+}
+
+.product-description hr {
+    border-color: rgba(0,0,0,0.05);
+}
+
 footer {
     padding-top: 2rem;
     justify-self: flex-end;
